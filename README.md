@@ -1,5 +1,3 @@
-# VirtualEsp32
-Esp32 docker support
 
 ## 🧱 Architecture Overview
 
@@ -137,3 +135,4 @@ cd renode
 ## ✅ Final Thoughts
 
 This setup provides a scalable solution for emulating multiple ESP32 nodes with real GPIO interaction on a Raspberry Pi. It's ideal for:
+
